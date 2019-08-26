@@ -1,7 +1,7 @@
 Car controller program information 
 
 
-@Author Raúl Maza
+@Author RaÃºl Maza
 @Data   17/06/19
 ---------------------------------------------------------------------------------------------------------------------------
 >>Hey there! that is a very simple aplication for controlling a car with Bluetooth.
@@ -13,7 +13,7 @@ change manually the MAC in the code. The actual URL of the HC-05 module is:
 URL: "btspp://201503142740:1;authenticate=false;encrypt=false;master=false"
 MAC HC-05: 201503142740
 
-Also the car is controlled with a Genuino 101 board. You will find the project in the Arduino folder.
+Also the car is controlled with a Genuino 101 board. You will find the project (BT_Car_bi-directional.ino).
 
 
 
